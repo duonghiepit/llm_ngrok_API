@@ -18,9 +18,8 @@ This project demonstrates how to expose an OCR (Optical Character Recognition) A
 
 - `perform_ocr(img_path)`: A Python function that sends a POST request to the OCR API endpoint with the image URL.
 - Sample test image URL:
-  ```
-  https://keko.vn/uploads/product/GIAY_IN_HOA_DON/giay_in_hoa_don_k80/SAN_PHAM_GIAY_IN_BILL_K80X45.jpg
-  ```
+![Sample image](https://keko.vn/uploads/product/GIAY_IN_HOA_DON/giay_in_hoa_don_k80/SAN_PHAM_GIAY_IN_BILL_K80X45.jpg)
+
 
 ### Usage
 
